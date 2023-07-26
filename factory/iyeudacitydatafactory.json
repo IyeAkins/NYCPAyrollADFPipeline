@@ -1,0 +1,17 @@
+{
+	"name": "iyeudacitydatafactory",
+	"properties": {
+		"globalParameters": {
+			"FiscalYear": {
+				"type": "int",
+				"value": 2020
+			}
+		}
+	},
+	"location": "southafricanorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "12bc99bd-b2ae-43a8-8029-11a6808ac15c",
+		"tenantId": "cd6683a6-aa85-46cf-aeea-92d4a1477009"
+	}
+}
